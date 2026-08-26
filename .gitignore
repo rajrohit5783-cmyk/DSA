@@ -1,0 +1,6 @@
+# C++ compiled output
+a.out
+*.out
+
+# Executable files
+Pattern_*
